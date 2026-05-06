@@ -1,4 +1,4 @@
-# Python Projects Portfolio 🐍
+# Python Projects 🐍
 
 This repository contains a collection of **Python projects** created to demonstrate my
 programming skills, problem-solving ability, and understanding of Python concepts.
