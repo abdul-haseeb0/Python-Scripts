@@ -5,4 +5,4 @@ programming skills, problem-solving ability, and understanding of Python concept
 The projects are organized from **basic to advanced level**, showing my learning
 progression and hands-on experience.
 
-!All content on this repo, including all scripts, is owned by ME. Unauthorized use is prohibited.
+! All content in this repo, including all scripts, is owned by ME. Unauthorized use is prohibited.
